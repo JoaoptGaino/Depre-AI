@@ -1,9 +1,12 @@
 {
-  "name": "depre",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
-  "dependencies": {
-    "brain.js": "^2.0.0-beta.1"
-  }
+    "name": "depre",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+        "brain.js": "^2.0.0-beta.1"
+    },
+    "scripts": {
+        "dev": "node ./src/index.js"
+    }
 }

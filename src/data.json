@@ -1,0 +1,33 @@
+[{
+        "text": "I'm sad",
+        "emotion": "sad"
+    },
+    {
+        "text": "I'm happy",
+        "emotion": "happy"
+    },
+    {
+        "text": "I wanna kill myself",
+        "emotion": "suicidal depression"
+    },
+    {
+        "text": "I'm really sad",
+        "emotion": "depression"
+    },
+    {
+        "text": "I don't feel like living",
+        "emotion": "depression"
+    },
+    {
+        "text": "I hate myself",
+        "emotion": "depression"
+    },
+    {
+        "text": "I hate everyone",
+        "emotion": "hate"
+    },
+    {
+        "text": "I hate my mom",
+        "emotion": "hate"
+    }
+]
